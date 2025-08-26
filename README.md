@@ -84,9 +84,9 @@
       <h3>Class 12th Marksheet</h3>
 
       <div class="details">
-        <p><strong>Name:</strong> Gaurav rajak</p>
+        <p><strong>Name:</strong> vikram singh</p>
         <p><strong>Roll Number:</strong> 233138445</p>
-        <p><strong>School Name:</strong> Govt. Highr Secondary School Unchehra</p>
+        <p><strong>School Name:</strong> Govt. Highr Secondary School satna</p>
         <p><strong>Year:</strong> 2022</p>
       </div>
 
@@ -125,9 +125,9 @@
       <h3>Class 10th Marksheet</h3>
 
       <div class="details">
-        <p><strong>Name:</strong> Gaurav rajak</p>
+        <p><strong>Name:</strong> vikram singh</p>
         <p><strong>Roll Number:</strong> 233138445</p>
-        <p><strong>School Name:</strong> Govt. Highr Secondary School Unchehra</p>
+        <p><strong>School Name:</strong> Govt. Highr Secondary School satna</p>
         <p><strong>Year:</strong> 2020</p>
       </div>
 
